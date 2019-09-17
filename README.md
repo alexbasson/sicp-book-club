@@ -1,4 +1,4 @@
-# Structure and Intepretation of Computer Programs Book Club
+# Structure and Intepretation of Computer Programs
 
 [The Actual Text](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
@@ -14,10 +14,10 @@ $ brew install mit-scheme
 
 ### Some useful keymaps:
 
-- Start In-Process Scheme Console: Cmd-Shift-F10
-- Execute code in REPL: Cmd-Enter
-- To load a Scheme file: Cmd-Shift-L
-- Run Selected Text in REPL: Cmd-Shift-J
+- Start In-Process Scheme Console: `Cmd-Shift-F10`
+- Execute code in REPL: `Cmd-Enter`
+- To load a Scheme file: `Cmd-Shift-L`
+- Run Selected Text in REPL: `Cmd-Shift-J`
 
 ## Scheme Basics
 
