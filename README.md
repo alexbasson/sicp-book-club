@@ -1,12 +1,16 @@
 # Structure and Intepretation of Computer Programs
 
+## Resources
+
 [The Actual Text](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 
 [MIT Video Lectures (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 
 [Video Lectures (2004)](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF)
 
+## Schedule & Syllabus
 
+Here's a link to [the schedule](./schedule.md), together with which pages, videos, and exercises we'll be covering each session.
 
 ## Installing Scheme
 
