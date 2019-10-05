@@ -2,11 +2,11 @@
 
 ## Resources
 
-[The Actual Text](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+[The Book](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html), by Harold Abelson, Gerald Sussman, and Julie Sussman.
 
-[MIT Video Lectures (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+[Video Lectures (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090), taught by Harold Abelson, Gerald Sussman, and Julie Sussman.
 
-[Video Lectures (2004)](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF)
+[Video Lectures (2004)](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), taught by Eric Grimson.
 
 ## Schedule & Syllabus
 
