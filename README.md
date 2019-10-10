@@ -14,9 +14,15 @@ Here's a link to [the schedule](./schedule.md), together with which sections fro
 
 ## Installing Scheme
 
+MIT Scheme (using Homebrew):
+
 ```bash
 $ brew install mit-scheme
 ```
+
+Chez Scheme: [https://cisco.github.io/ChezScheme/#get](https://cisco.github.io/ChezScheme/#get)
+
+More Scheme resources: [https://exercism.io/tracks/scheme/installation](https://exercism.io/tracks/scheme/installation)
 
 ## Using Scheme in IntelliJ
 
