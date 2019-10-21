@@ -10,7 +10,7 @@
 
 ## Schedule & Syllabus
 
-Here's a link to [the schedule](./wiki/Schedule), together with which sections from the book, videos, and exercises we'll be covering each session.
+Here's a link to [the schedule](https://github.com/alexbasson/sicp-book-club/wiki/Schedule), together with which sections from the book, videos, and exercises we'll be covering each session.
 
 ## Installing Scheme
 
